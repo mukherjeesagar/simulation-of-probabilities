@@ -4,3 +4,4 @@ A combination of pseudo-random and hardware-based random number generators is de
 
 ## Density plots
 ![Uniform random variable](/plots/11.png) ![Uniform random variable](/plots/12.png)
+![Uniform random variable](/plots/21.png) ![Uniform random variable](/plots/22.png)
