@@ -1,8 +1,8 @@
 # Simulation of Probabilities
 
-A combination of pseudo-random and hardware-based random number generators is demonstrated using a linear congruential generator and system-generated performance time counter of the order in nanoseconds. Thereby, a compilations of some standard algorithmic transformations is presented, with mathematical justications and Python implementations. The idea is to first generate a Standard Uniform Random Variable and then transform it into another Random Variable which follows a specified probability law/distribution, by using an underlying mathematical algorithm.
+A combination of pseudo-random and hardware-based random number generators is demonstrated using a linear congruential generator and system-generated performance time counter (order in nanoseconds). Thereby, a compilation of some standard algorithmic transformations is presented, with mathematical justifications and Python implementations. The idea is to first generate a Standard Uniform Random Variable and then transform it into another Random Variable which follows a specified probability law/distribution, by using an underlying mathematical algorithm. Refer to the report-file for details.
 
-Refer to the Report-file for details. The program is split into 3 python files:
+The program is split into 3 python files:
 - main.py: Driver script
 - disctributions.py: Class to simulate the random variables
 - visualisations.py: Plotting class for empirical functions (density and cdf)
