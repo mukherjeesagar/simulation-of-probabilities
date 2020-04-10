@@ -2,7 +2,6 @@
 
 A combination of pseudo-random and hardware-based random number generators is demonstrated using a linear congruential generator and system-generated performance time counter (order in nanoseconds). Thereby, a compilation of some standard algorithmic transformations is presented, with mathematical justifications and Python implementations. The idea is to first generate a Standard Uniform Random Variable and then transform it into another Random Variable which follows a specified probability law/distribution, by using an underlying mathematical algorithm. Refer to the report-file for details.
 
-![lcg](/plots/lcg.PNG)
 <p align="center"><img src="./plots/lcg.PNG" alt="lcg"| style="height: 300px;"/></p>
 
 The program is split into 3 python files:
